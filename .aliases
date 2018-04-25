@@ -1,0 +1,38 @@
+#============================================
+# SYSTEM Aliases
+#============================================
+alias c='cd'
+
+#============================================
+# SCOOP Aliases
+#============================================
+alias cl='clear'
+alias sc='scoop'
+
+#============================================
+# Composer Aliases
+#============================================
+alias cm='composer'
+
+#============================================
+# Laravel
+#============================================
+alias art='artisan'
+
+#============================================
+# GIT Aliases
+#============================================
+alias gi='git init'
+alias gaa='git add .'
+alias gs='git status'
+alias gl='git log'
+alias gd='git diff'
+alias gc='git commit'
+alias gck='git checkout'
+alias gb='git branch'
+alias l='git log --oneline --graph'
+alias gm='git merge'
+alias gp='git push'
+alias grh='git reset --hard'
+alias grs='git reset --soft'
+alias grb='git rebase'
