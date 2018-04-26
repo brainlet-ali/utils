@@ -23,6 +23,7 @@ alias lvn='laravel new'
 # Laravel - Artisan
 #============================================
 alias art='artisan'
+alias pas='php artisan serve'
 
 #============================================
 # GIT Aliases
