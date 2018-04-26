@@ -24,6 +24,7 @@ alias lvn='laravel new'
 #============================================
 alias art='artisan'
 alias pas='php artisan serve'
+alias pam='php artisan migrate'
 
 #============================================
 # GIT Aliases
