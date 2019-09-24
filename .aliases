@@ -5,36 +5,32 @@ alias c='cd'
 alias cl='clear'
 
 #============================================
-# Gradle Aliases
-#============================================
-alias gr='gradle'
-
-#============================================
-# SCOOP Aliases
-#============================================
-alias sc='scoop'
-
-#============================================
-# SCOOP Aliases
-#============================================
-alias sc='scoop'
-
-#============================================
 # Composer Aliases
 #============================================
 alias cm='composer'
+alias cmda='composer dump-autoload'
 
 #============================================
-# Laravel
+# Laravel CLI
 #============================================
 alias lvn='laravel new'
 
 #============================================
 # Laravel - Artisan
 #============================================
-alias art='artisan'
+alias pa='php artisan'
 alias pas='php artisan serve'
 alias pam='php artisan migrate'
+alias parl='php artisan route:list'
+alias pamf='php artisan migrate:fresh'
+alias pamrb='php artisan migrate:rollback'
+alias pamrst='php artisan migrate:reset'
+alias pat='php artisan tinker'
+alias pamm='php artisan make:model'
+alias pammig='php artisan make:migration'
+alias pamc='php artisan make:controller'
+alias pamr='php artisan migrate:rollback'
+alias paqw='php artisan queue:work'
 
 #============================================
 # GIT Aliases
@@ -54,3 +50,18 @@ alias gpor='git push origin master'
 alias grh='git reset --hard'
 alias grs='git reset --soft'
 alias grb='git rebase'
+
+#============================================
+# Node JS
+#============================================
+alias ni='npm install'
+alias nu='npm update'
+alias nr='npm run'
+alias nrd='npm run dev'
+alias nrp='npm run prodcution'
+alias nrw='npm run watch'
+
+#============================================
+# Custom
+#============================================
+alias code="cd d:/wampp/www"
