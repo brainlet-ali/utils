@@ -11,7 +11,7 @@ alias cm='composer'
 alias cmda='composer dump-autoload'
 
 #============================================
-# Laravel CLI
+# Laravel Installer
 #============================================
 alias lvn='laravel new'
 
