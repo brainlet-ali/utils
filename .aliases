@@ -64,4 +64,4 @@ alias nrw='npm run watch'
 #============================================
 # Custom
 #============================================
-alias code="cd d:/wampp/www"
+alias code="cd d:/wamp/www"
