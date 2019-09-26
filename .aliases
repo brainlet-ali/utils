@@ -56,10 +56,9 @@ alias grb='git rebase'
 #============================================
 alias ni='npm install'
 alias nu='npm update'
-alias nr='npm run'
-alias nrd='npm run dev'
-alias nrp='npm run prodcution'
-alias nrw='npm run watch'
+alias nd='npm run dev'
+alias np='npm run prodcution'
+alias nw='npm run watch'
 
 #============================================
 # Custom
