@@ -4,4 +4,4 @@
 ![](images/git_bash_aliases.png)
 3) At this point you are done. e.g: Typing 'gs' should expand to 'git status'
 
-**Note**: In some cases you might want to add command: source PATH_TO_ALIASES_FILE
+**Note**: In some cases you might need to add command: source PATH_TO_ALIASES_FILE
